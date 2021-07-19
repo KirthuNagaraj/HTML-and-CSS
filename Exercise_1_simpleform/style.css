@@ -1,0 +1,37 @@
+.cls-main{
+    background: #f5f2f2;
+    padding: 50px 280px 50px 280px;
+}
+.cls-sub{
+	border: #bbb5b5;
+    border-style: solid;
+}
+.cls-header{
+	text-align: center;
+    background: #3c3cea;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+form{
+	padding: 20px;
+	background: white;
+}
+
+input{
+	border:none;
+	border-bottom-style: groove;
+    inline-size: -webkit-fill-available;
+}
+input:focus{
+	outline: none;
+}
+label{
+	color: #bfbebe;
+    font-size: small;
+    font-family: arial;
+}
+.cls-row{
+	padding-bottom: 20px;
+}
