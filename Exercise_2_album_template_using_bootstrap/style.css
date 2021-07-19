@@ -1,0 +1,50 @@
+.cls-header{
+	background-color: #606163;
+    padding: 10px;
+}
+.cls-icon-clr{
+	color: white;
+}
+.cls-body{
+	padding-top: 90px;
+	padding-bottom: 90px;
+	text-align: center;	
+}
+.cls-button{
+	padding-top: 25px;
+}
+.cls-thumbnail-header{
+	padding: 80px;
+	text-align: center;	
+    background-color: #606163;
+    color: white;
+}
+.cls-thumbnail{
+	padding: 20px 130px 20px 130px;
+	background-color: #dcd5d547;
+}
+.cls-thumbnail-body{
+	padding: 15px;
+	background-color: white;
+}
+.cls-mins{
+	text-align: center;
+	padding-top: 30px;
+	font-size: 14px;
+    font-weight: normal;
+}
+.btn-group{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.btn-light{
+	border:2px;
+	border-style: solid;
+	border-color: #60616361;
+}
+.cls-text-clr{
+	color: #4b4c4c;
+}
+.cls-body-text-clr{
+	color: #808080bd;
+}
